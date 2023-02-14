@@ -1,0 +1,8 @@
+D:\Программы\VS\FigureLab\FigureLab\obj\Debug\FigureLab.csproj.AssemblyReference.cache
+D:\Программы\VS\FigureLab\FigureLab\obj\Debug\FigureLab.csproj.SuggestedBindingRedirects.cache
+D:\Программы\VS\FigureLab\FigureLab\obj\Debug\FigureLab.csproj.CoreCompileInputs.cache
+D:\Программы\VS\FigureLab\FigureLab\bin\Debug\FigureLab.exe.config
+D:\Программы\VS\FigureLab\FigureLab\bin\Debug\FigureLab.exe
+D:\Программы\VS\FigureLab\FigureLab\bin\Debug\FigureLab.pdb
+D:\Программы\VS\FigureLab\FigureLab\obj\Debug\FigureLab.exe
+D:\Программы\VS\FigureLab\FigureLab\obj\Debug\FigureLab.pdb
